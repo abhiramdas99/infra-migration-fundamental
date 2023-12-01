@@ -1,4 +1,4 @@
-# infra-migration-fundamental
+f# infra-migration-fundamental
 
 Migrating the complete infrastructure  from onpremises to cloud or one cloud to anather cloud
 We need to follow the below protocol during migraiton -
@@ -16,3 +16,6 @@ There are 7rs straitegy that, come under the prepairation and planning stage -
 5. retrain - some  applciation are in onpremises and some are in cloud 
 6. retire - do nto migrate the application that not use from long time. 
 7. repurchase 
+
+Follow the  video for more clarity - 
+https://www.youtube.com/watch?v=cAXPA5lqkV4
